@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import java.util.List;
-
+//服务器端修改-------------------------^-^
 /**
  * 内容分类controller
  * @author Administrator
